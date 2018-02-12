@@ -1,0 +1,22 @@
+{
+  "name": "mmm-moonmoji",
+  "version": "1.0.0",
+  "description": "Return an emoji representing the current moon phase",
+  "main": "MMM-Moonmoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-Moonmoji.git"
+  },
+  "author": "Mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-Moonmoji/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-Moonmoji#readme",
+  "dependencies": {
+    "moonmoji": "latest"
+  }
+}
